@@ -1,0 +1,9 @@
+REPOSITORY             TAG       IMAGE ID       CREATED          SIZE
+edik/ubuntu-tmp-file   latest    ffd86342f975   33 minutes ago   63.2MB
+ubuntu                 latest    e4c58958181a   7 weeks ago      77.8MB
+ubuntu                 18.04     f9a80a55f492   6 months ago     63.2MB
+hello-world            latest    9c7a54a9a43c   6 months ago     13.3kB
+
+
+docker inspect <container_id> позволяет увидеть информацию про контейнер, про сети и другие настройки.
+docker inspect <image_id> позволяет увидеть с какого контейнера был выполнен commit и snapshot состояния.
