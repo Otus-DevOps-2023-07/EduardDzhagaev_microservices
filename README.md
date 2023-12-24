@@ -1,6 +1,22 @@
 # EduardDzhagaev_microservices
 EduardDzhagaev microservices repository
 
+ДЗ №15
+##### Docker-4 #####
+
+Изучил 3 разных типа сетей в Docker - none, host, bridge
+Выполнил практическую часть по разворачиванию контейнеров в разных типах сетей
+Изучил и опробовал инструмент "docker-compose" для описания сервиса из множества контейнеров
+
+Узнайте как образуется базовое имя проекта. Можно ли его задать? Если можно то как? Ответ добавьте в Readme.md данного ДЗ
+
+docker-compose
+-p, --project-name NAME     Specify an alternate project name
+                                  (default: directory name)
+
+По умолчанию берется имя папки из которой создаются сервисы.
+
+
 ДЗ №13
 ##### Docker-3 #####
 
