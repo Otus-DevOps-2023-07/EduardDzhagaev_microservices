@@ -1,6 +1,24 @@
 # EduardDzhagaev_microservices
 EduardDzhagaev microservices repository
 
+ДЗ №17
+##### Monitoring-1 #####
+
+Установка Prometheus в docker
+Добавление targets для сбора метрик
+Заполнение "docker-compose.yml" для поднятия контейнеров
+Проверил мониторинга при выключении контейнера приложения
+Добавление "node-экспортёра" в "docker-compose.yml"
+Проверка мониторинга после добавления "node-экспортёра"
+
+Repo for "docker hub" c моими images:
+https://hub.docker.com/repositories/schtrauch
+
+docker pull schtrauch/prometheus
+docker pull schtrauch/post
+docker pull schtrauch/comment
+docker pull schtrauch/ui 
+
 ДЗ №16
 ##### Gitlab-ci-1 #####
 
