@@ -1,6 +1,18 @@
 # EduardDzhagaev_microservices
 EduardDzhagaev microservices repository
 
+ДЗ №18
+##### Logging-1 #####
+
+Построил EFK через docker compose
+Многократно и последовательно составлены Dockerfile и fluent.conf
+Собрали image для fluentd
+Добавил logging-драйвер в docker-compose.yml
+Опробованы фильтры для сбора структурированных логов
+Опробованы фильтры для сбора неструктурированных логов
+Опробован "Zipkin" для просмотра трейсов
+
+
 ДЗ №17
 ##### Monitoring-1 #####
 
