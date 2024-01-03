@@ -1,4 +1,5 @@
 FROM ruby:2.4-alpine
+
 RUN apk --update add build-base && rm -rf /etc/apk/cache && rm -rf /var/cache/apk
 
 ENV APP_HOME /app
