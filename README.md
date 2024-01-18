@@ -1,6 +1,19 @@
 # EduardDzhagaev_microservices
 EduardDzhagaev microservices repository
 
+ДЗ №19
+##### Kubernetes-1 #####
+
+Развернул Kubernetes на Debian11 при помощи "kubeadm"
+В ходе инсталяции была произведена: 
+- настройка UFW  на нодах
+- установка среды выполнения контейнера CRI-O
+- установка пакетов k8s - kubeadm, kubelet, kubectl
+- Инсталяция network plugin "Calico"
+Затем были составлены и опробованы манифесты в k8s
+
+
+
 ДЗ №18
 ##### Logging-1 #####
 
