@@ -1,6 +1,18 @@
 # EduardDzhagaev_microservices
 EduardDzhagaev microservices repository
 
+ДЗ №20
+##### Kubernetes-2 #####
+
+Инсталлировал Minikube на Debian11
+Частично изучены параметры конфигуарционного файла для Minikube
+Созданы файлы с описанием Deployments, Services, namespace
+Опробовал Dashboard для Minikube
+Протестировал создание компонентов в отдельном namespace "dev" 
+Создал на YandexCloud K8s cluster
+Протестировал разворачивание приложения на K8s cluster в YandexCloud в namespace "dev"
+
+
 ДЗ №19
 ##### Kubernetes-1 #####
 
