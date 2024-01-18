@@ -1,3 +1,4 @@
 # for docker-compose
 .env
 docker/.env
+logging/fluentd/old_fluent.conf
