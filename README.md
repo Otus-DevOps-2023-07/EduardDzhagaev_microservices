@@ -1,6 +1,16 @@
 # EduardDzhagaev_microservices
 EduardDzhagaev microservices repository
 
+ДЗ №16
+##### Gitlab-ci-1 #####
+
+Установил Gitlab-СI на vm в варианте инсталляции Omnibus
+Выполнил первоначальную настройку GitLab. Cоздал group и project. 
+Установил и зарегистрировал GitLab-Runner
+В ".gitlab-ci.yml" написан код pipeline
+Протестировал создание окружений
+
+
 ДЗ №15
 ##### Docker-4 #####
 
