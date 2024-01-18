@@ -1,2 +1,3 @@
 # for docker-compose
 .env
+docker/.env
