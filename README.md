@@ -1,6 +1,18 @@
 # EduardDzhagaev_microservices
 EduardDzhagaev microservices repository
 
+ДЗ №21
+##### Kubernetes-3 #####
+
+Проверено отключение kube-dns
+Опробован service типа NodePort
+Опробован service типа LoadBalancer
+Установлен Ingress Controller и опробован Ingress
+Включение TLS termination
+Настроен Network Policy
+Добавлен и настроен volume
+
+
 ДЗ №20
 ##### Kubernetes-2 #####
 
