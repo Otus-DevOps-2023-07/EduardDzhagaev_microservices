@@ -2,3 +2,4 @@
 .env
 docker/.env
 logging/fluentd/old_fluent.conf
+kubernetes/Charts/Gitlab_ci

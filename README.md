@@ -1,6 +1,19 @@
 # EduardDzhagaev_microservices
 EduardDzhagaev microservices repository
 
+ДЗ №22
+##### Kubernetes-4 #####
+
+Установлен Helm, Tiller и затем позже Helm3
+Написаны chart
+Реализованы управления зависимостями
+Установлен helm2 tiller plugin
+Установлен Gitlab из Omnibus
+Сделан запуск проекта в Gitlab
+Написание pipeline в Gitlab
+Deploy
+
+
 ДЗ №21
 ##### Kubernetes-3 #####
 
